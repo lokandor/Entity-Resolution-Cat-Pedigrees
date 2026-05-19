@@ -8,11 +8,9 @@ snorkel
 transformers
 --extra-index-url https://download.pytorch.org/whl/cu124
 torch
-torchvision
-torchaudio
 peft
 sentence-transformers
-pyjedai
+# pyjedai  # optional: true Correlation Clustering (needs MSVC build tools on Windows; greedy pivot used as fallback)
 openai
 datasketch
 pyarrow
