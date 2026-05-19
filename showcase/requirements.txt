@@ -1,0 +1,15 @@
+rich
+pandas
+numpy
+scikit-learn
+networkx
+recordlinkage
+catboost
+snorkel
+transformers
+torch
+peft
+sentence-transformers
+datasets
+pyjedai
+openai

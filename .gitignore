@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+*.egg-info/
+
+# large data files — keep locally, load via merge_batches.py
+showcase/DATA/*.parquet
+showcase/DATA/*.jsonl
+showcase/DATA/*.csv
