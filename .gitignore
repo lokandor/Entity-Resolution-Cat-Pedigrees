@@ -4,6 +4,7 @@ __pycache__/
 *.pyo
 .idea/
 *.egg-info/
+.claude/
 
 # large data files — keep locally, load via merge_batches.py
 showcase/DATA/*.parquet
