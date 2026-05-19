@@ -1,15 +1,18 @@
-rich
+streamlit
+pyvis
 pandas
 numpy
 scikit-learn
 networkx
-recordlinkage
-catboost
 snorkel
 transformers
+--extra-index-url https://download.pytorch.org/whl/cu124
 torch
+torchvision
+torchaudio
 peft
 sentence-transformers
-datasets
 pyjedai
 openai
+datasketch
+pyarrow
