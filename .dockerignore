@@ -1,0 +1,15 @@
+.venv/
+.git/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# LaTeX build artifacts and thesis source not needed in the image
+Bachelor_Thesis_Form/
+DP_METHODS.pdf
+
+# Streamlit local cache
+.streamlit/cache/
+showcase/**/__pycache__/
